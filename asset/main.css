@@ -21,3 +21,15 @@
 .container {
     margin: 5px 45px 5px 45px;
 }
+
+.home1 {
+    margin-top: 20px;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.image1 {
+    border-radius: 10px;
+}
