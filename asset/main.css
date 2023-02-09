@@ -33,3 +33,10 @@
 .image1 {
     border-radius: 10px;
 }
+
+.homes {
+    margin-top: 20px;
+    color: teal;
+    text-align: center;
+    border-radius: 20px;
+}
